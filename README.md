@@ -1,6 +1,6 @@
 # Hello, I'm Abhishek Manyam 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Learner;Always+exploring+new+technologies)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=CYBERSECURITY+ENTHUSIAST;FULLSTACK+DEVLOPER;ALWAYS+EXPLORING+NEW+TECHNOLOGIES)
 
 ## 👨‍💻 About Me
 
