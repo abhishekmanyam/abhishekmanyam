@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmanyam&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats-gamma-eight-22.vercel.app/api?username=abhishekmanyam&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
