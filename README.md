@@ -25,11 +25,6 @@ Full-stack developer with a security background, currently focused on AI enginee
 - Applying security thinking to AI systems — adversarial robustness, prompt injection defense, red teaming
 - Contributing to open-source AI/ML tooling
 
-## GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats-gamma-eight-22.vercel.app/api?username=abhishekmanyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats-gamma-eight-22.vercel.app/api/top-langs/?username=abhishekmanyam&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abhishek-manyam-9059401a8/)
